@@ -15,7 +15,7 @@ Clerk Account (for Auth)
 Neon DB Account (for Database)
 Google AI Studio Key (for Gemini API)
 Installation Steps--
-1.Clone the Repository: bash git clone [https://github.com/sadhanamaurya3052005/AI-Powered-Career-Counselor-SENSAI.git] cd AI-Powered-Career-Counselor-SENSAI  2.Install Dependencies: bash npm install  3.Setup Environment Variables:Create a .env file and add your credentials. env DATABASE_URL=your_postgresql_url NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key CLERK_SECRET_KEY=your_key GEMINI_API_KEY=your_gemini_key  4.Database Migration: bash npx prisma generate npx prisma migrate dev  5.Run Locally: bash npm run dev 
+1.Clone the Repository: bash git clone [https://github.com/snehasinghsnehasingh801/AI-Powered-Career-Counselor-SENSAI.git] cd AI-Powered-Career-Counselor-SENSAI  2.Install Dependencies: bash npm install  3.Setup Environment Variables:Create a .env file and add your credentials. env DATABASE_URL=your_postgresql_url NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key CLERK_SECRET_KEY=your_key GEMINI_API_KEY=your_gemini_key  4.Database Migration: bash npx prisma generate npx prisma migrate dev  5.Run Locally: bash npm run dev 
 
 📜 **License**
 Ye project MIT License ke tahat licensed hai.
